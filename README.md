@@ -13,7 +13,7 @@ All survey questions can be found in the folder called `surveyquestions` in a wo
 Survey dates, the question asked, and the type of answer expected are included. 
 
 ## Consensus distributions
-
+At the moment consensus distributions were built only for triplet questions.
 
 ## contact:
 tom mcandrew mcandrew@umass.edu
