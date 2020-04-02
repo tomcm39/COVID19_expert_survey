@@ -10,14 +10,15 @@ A Word document showing the questions asked is available [here](listOfQuestions/
 
  id | dates conducted | summary | press
 -- | -- | --| ---
-Survey 1 | Feb 18-20  | - |  -
+Survey 1 | Feb 18-20, 2020  | - |  -
 Survey 2 | Feb 24-25  | - | -
-Survey 3 | Mar 02-03  | [Survey3](https://works.bepress.com/nicholas_reich/14/) | 
-Survey 4 | Mar 09-10  | [Survey4](https://works.bepress.com/mcandrew/1/) | 
-Survey 5 | Mar 16-17, 2020 | [Survey5](https://works.bepress.com/mcandrew/2/) | [FiveThirtyEight](https://fivethirtyeight.com/features/infectious-disease-experts-dont-know-how-bad-the-coronavirus-is-going-to-get-either/)
-Survey 6 | Mar 23-24, 2020 | [Survey6](https://works.bepress.com/mcandrew/3/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-say-the-coronavirus-outlook-has-worsened-but-the-trajectory-is-still-unclear/)
-Survey 7 | Mar 30-31, 2020 | [Survey7](https://works.bepress.com/mcandrew/4/) | 
+Survey 3 | Mar 02-03  | [Survey3](https://works.bepress.com/nicholas_reich/14/) | -
+Survey 4 | Mar 09-10  | [Survey4](https://works.bepress.com/mcandrew/1/) | -
+Survey 5 | Mar 16-17 | [Survey5](https://works.bepress.com/mcandrew/2/) | [FiveThirtyEight](https://fivethirtyeight.com/features/infectious-disease-experts-dont-know-how-bad-the-coronavirus-is-going-to-get-either/)
+Survey 6 | Mar 23-24 | [Survey6](https://works.bepress.com/mcandrew/3/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-say-the-coronavirus-outlook-has-worsened-but-the-trajectory-is-still-unclear/)
+Survey 7 | Mar 30-31 | [Survey7](https://works.bepress.com/mcandrew/4/) | 
 
 ## contact:
-tom mcandrew mcandrew@umass.edu
-Nicholas G. Reich nick@schoolph.umass.edu
+tom mcandrew (mcandrew@umass.edu) and Nicholas G. Reich (nick@schoolph.umass.edu)
+
+Department of Biostatistics and Epidemiology, University of Massachusetts - Amherst
