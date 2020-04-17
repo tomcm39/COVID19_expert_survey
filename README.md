@@ -18,7 +18,7 @@ Survey 5 | Mar 16-17 | [Survey5](https://works.bepress.com/mcandrew/2/) | [FiveT
 Survey 6 | Mar 23-24 | [Survey6](https://works.bepress.com/mcandrew/3/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-say-the-coronavirus-outlook-has-worsened-but-the-trajectory-is-still-unclear/)
 Survey 7 | Mar 30-31 | [Survey7](https://works.bepress.com/mcandrew/4/) | [FiveThirtyEight](https://fivethirtyeight.com/features/best-case-and-worst-case-coronavirus-forecasts-are-very-far-apart/) & [The Economist](https://www.economist.com/briefing/2020/04/03/the-hard-choices-covid-policymakers-face)
 Survey 8 | Apr 06-07 | [Survey8](https://works.bepress.com/mcandrew/5/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-think-were-flattening-the-coronavirus-curve-but-hospitalizations-havent-peaked-yet/)
-Survey 9 | Apr 13-14 | [Survey9](https://works.bepress.com/mcandrew/6/) | 
+Survey 9 | Apr 13-14 | [Survey9](https://works.bepress.com/mcandrew/6/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-think-the-u-s-covid-19-death-toll-will-hit-50000-by-the-end-of-april/)
 
 ## contact:
 tom mcandrew (mcandrew@umass.edu) and Nicholas G. Reich (nick@schoolph.umass.edu)
