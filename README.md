@@ -14,7 +14,7 @@ Survey 1 | Feb 18-20, 2020  | - |  -
 Survey 2 | Feb 24-25  | - | -
 Survey 3 | Mar 02-03  | [Survey3](https://works.bepress.com/nicholas_reich/14/) | -
 Survey 4 | Mar 09-10  | [Survey4](https://works.bepress.com/mcandrew/1/) | -
-Survey 5 | Mar 16-17 | [Survey5](https://works.bepress.com/mcandrew/2/) | [FiveThirtyEight](https://fivethirtyeight.com/features/infectious-disease-experts-dont-know-how-bad-the-coronavirus-is-going-to-get-either/)
+Survey 5 | Mar 16-17 | [Survey5](https://works.bepress.com/mcandrew/2/) | [FiveThirtyEight](https://fivethirtyeight.com/features/infectious-disease-experts-dont-know-how-bad-the-coronavirus-is-going-to-get-either/) & [Rolling Stone](https://www.rollingstone.com/politics/politics-news/infectious-disease-experts-coronavirus-poll-965759/)
 Survey 6 | Mar 23-24 | [Survey6](https://works.bepress.com/mcandrew/3/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-say-the-coronavirus-outlook-has-worsened-but-the-trajectory-is-still-unclear/)
 Survey 7 | Mar 30-31 | [Survey7](https://works.bepress.com/mcandrew/4/) | [FiveThirtyEight](https://fivethirtyeight.com/features/best-case-and-worst-case-coronavirus-forecasts-are-very-far-apart/) & [The Economist](https://www.economist.com/briefing/2020/04/03/the-hard-choices-covid-policymakers-face)
 Survey 8 | Apr 06-07 | [Survey8](https://works.bepress.com/mcandrew/5/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-think-were-flattening-the-coronavirus-curve-but-hospitalizations-havent-peaked-yet/) & [Vox](https://www.vox.com/future-perfect/2020/4/8/21210193/coronavirus-forecasting-models-predictions)
