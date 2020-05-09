@@ -20,6 +20,8 @@ Survey 7 | Mar 30-31 | [Survey7](https://works.bepress.com/mcandrew/4/) | [FiveT
 Survey 8 | Apr 06-07 | [Survey8](https://works.bepress.com/mcandrew/5/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-think-were-flattening-the-coronavirus-curve-but-hospitalizations-havent-peaked-yet/) & [Vox](https://www.vox.com/future-perfect/2020/4/8/21210193/coronavirus-forecasting-models-predictions)
 Survey 9 | Apr 13-14 | [Survey9](https://works.bepress.com/mcandrew/6/) | [FiveThirtyEight](https://fivethirtyeight.com/features/experts-think-the-u-s-covid-19-death-toll-will-hit-50000-by-the-end-of-april/)
 Survey 10| Apr 20-21 | [Survey10](https://works.bepress.com/mcandrew/7/) | [Science News](https://www.sciencemag.org/news/2020/04/surveys-infectious-disease-experts-aim-predict-covid-19-s-toll)
+Survey 11 |Apr 27-28 | [Survey11](https://works.bepress.com/mcandrew/8/) | [FiveThirtyEight](https://fivethirtyeight.com/features/infectious-disease-experts-expect-a-surge-in-georgias-covid-19-cases/)
+
 ## contact:
 tom mcandrew (mcandrew@umass.edu) and Nicholas G. Reich (nick@schoolph.umass.edu)
 
