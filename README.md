@@ -22,6 +22,7 @@ Survey 9 | Apr 13-14 | [Survey9](https://works.bepress.com/mcandrew/6/) | [FiveT
 Survey 10| Apr 20-21 | [Survey10](https://works.bepress.com/mcandrew/7/) | [Science News](https://www.sciencemag.org/news/2020/04/surveys-infectious-disease-experts-aim-predict-covid-19-s-toll)
 Survey 11 |Apr 27-28 | [Survey11](https://works.bepress.com/mcandrew/8/) | [FiveThirtyEight](https://fivethirtyeight.com/features/infectious-disease-experts-expect-a-surge-in-georgias-covid-19-cases/)
 Survey 12 | May 4-5 | [Survey12](https://works.bepress.com/mcandrew/9/) | [FiveThirtyEight](https://fivethirtyeight.com/features/infectious-disease-experts-think-texas-will-see-an-increase-in-cases/)
+Survey 13 | May 11-12| [Survey13](https://works.bepress.com/mcandrew/10/)
 
 # Publications
 [An expert judgment model to predict early stages of the COVID-19 outbreak in the United States](https://www.medrxiv.org/content/10.1101/2020.09.21.20196725v1)
