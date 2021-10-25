@@ -28,6 +28,6 @@ Survey 13 | May 11-12| [Survey13](https://works.bepress.com/mcandrew/10/)
 [An expert judgment model to predict early stages of the COVID-19 outbreak in the United States](https://www.medrxiv.org/content/10.1101/2020.09.21.20196725v1)
 
 ## contact:
-tom mcandrew (mcandrew@umass.edu) and Nicholas G. Reich (nick@schoolph.umass.edu)
-
+tom mcandrew (mcandrew@lehigh.edu) and Nicholas G. Reich (nick@schoolph.umass.edu)
+Lehigh University College of Health
 Department of Biostatistics and Epidemiology, University of Massachusetts - Amherst
